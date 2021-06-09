@@ -1,10 +1,10 @@
-## Table of Contents  
-[Description](#description)  
-[pipeline](#pipeline)
-[Preparing the Data](#preparing-the-data)  
-[preprocessing the data](#preprocessing-the-data)
-[model](#then-we-constructed-the-model)
-[Testing](#testing)
+# **Table of Contents**  
+-[Description](#description)  
+-[pipeline](#pipeline)
+-[Preparing the Data](#preparing-the-data)  
+-[preprocessing the data](#preprocessing-the-data)
+-[model](#then-we-constructed-the-model)
+-[Testing](#testing)
 # Description 
 The project is error detection and correction for Arabic language, that correct any morphological mistake that may found in Arabic context or even misspelled word.
 # pipeline
