@@ -33,6 +33,6 @@ We focused on Siamese Neural Network concept to solve our problem with the help 
 ## Testing
 1.	Definitely we started the testing by decoding a fine amount of the encoded data of course we can’t decode all the data at once and we noticed a great result 
 2.	The testing phase did not stop here we used the Word Error Rate library to find the probability of that were missed by the model. 
-a.	We used part of the data in this process. 
-b.	Then we added to this function some sort of transformation which was helpful in the result by noticeable way 
-c.	The result was convenient as it showed the word error rate was almost 25% 
+- a.	We used part of the data in this process. 
+- b.	Then we added to this function some sort of transformation which was helpful in the result by noticeable way 
+- c.	The result was convenient as it showed the word error rate was almost 25% 
