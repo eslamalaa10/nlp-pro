@@ -1,4 +1,4 @@
-# Table of Contents
+# **Semantic Error Detection and Correction**
 - [Description](#description)  
 - [pipeline](#pipeline)
 - [Preparing the Data](#preparing-the-data)  
