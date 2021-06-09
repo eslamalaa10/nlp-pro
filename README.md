@@ -1,14 +1,14 @@
 # **Semantic Error Detection and Correction**
-## **Table of Contents**  
+- ## **Table of Contents**  
 - [Description](#description)  
 - [pipeline](#pipeline)
 - [Preparing the Data](#preparing-the-data)  
 - [preprocessing the data](#preprocessing-the-data)
 - [model](#then-we-constructed-the-model)
 - [Testing](#testing)
-## Description 
+- ## Description 
 The project is error detection and correction for Arabic language, that correct any morphological mistake that may found in Arabic context or even misspelled word.
-## pipeline
+- ## pipeline
 We focused on Siamese Neural Network concept to solve our problem with the help of LSTM. 
 - ### Preparing the Data
 1.	First, we cleaned our data from any weird character or symbol to make sure it is the data we were looking for.
